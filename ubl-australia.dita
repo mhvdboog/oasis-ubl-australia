@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="UBL Australia">
+  <topicref href="topics/section1.md" format="markdown"/>
+  <topicref href="topics/section2.md" format="markdown"/>
+</map>
