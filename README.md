@@ -1,5 +1,5 @@
 # Command
 ```
-$ dita --input=main.xml --format=html5
+$ dita --input=ubl-australia.ditamap --format=html5
 ```
 
