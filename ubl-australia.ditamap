@@ -35,7 +35,6 @@
 	</bookmeta>
 	<frontmatter>
 		<mapref href="ubl-aus-common-definitions.ditamap" processing-role="resource-only"/>
-		<mapref href="ubl-aus-key-definitions.ditamap" processing-role="resource-only"/>
 		<mapref href="ubl-aus-definitions-cover-pages.ditamap" processing-role="resource-only"/>
 		<booklists>
 			<toc/>
